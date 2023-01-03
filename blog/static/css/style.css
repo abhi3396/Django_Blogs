@@ -1,0 +1,23 @@
+.bg-primary{
+    background: #477091!important;
+    padding-left: 20px;
+}
+
+.mt20{
+    margin-top: 20px;
+}
+
+.container-custom{
+    width: 90%!important;
+    margin: auto;
+}
+
+.item{
+    margin-left: 10px;
+}
+
+.new-img{
+    max-height: 450px;
+    width: 100%!important;
+    object-fit: cover;
+}
